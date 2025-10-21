@@ -1,0 +1,10 @@
+[general]
+name=Circular Urban Planning
+description=Aims to quantify the potential GHG emissions reduction coming from circular economy for façades of building.
+about=Made a the Chair of Circular engineering for Architecture 
+version=1.0
+qgisMinimumVersion=3.0
+supportsQt6=True
+author=Pierre Navaro Auburtin
+email=navaro-auburtin@ibi.baug.ethz.ch
+repository=URL to the code repository
